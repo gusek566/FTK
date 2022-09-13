@@ -1,6 +1,0 @@
-dependencies:
-  - matplotlib
-  - numpy
-  - pip
-  - scipy
-  - ipywidgets
